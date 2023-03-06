@@ -13,7 +13,6 @@
   <a href="https://www.linkedin.com/in/msigor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
-<div>  
-    ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=msigor&show_icons=true&theme=dracula)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msigor&hide_progress=truecompact)](https://github.com/msigor/github-readme-stats)
-</div>
+ 
+ ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=msigor&show_icons=true&theme=dark)
+
