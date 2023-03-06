@@ -14,6 +14,6 @@
 </div>
 <br>
 <div>  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=msigor&show_icons=true&count_private=true&hide_border=true&title_color=3899E8&icon_color=93CDF4&text_color=DAE9F2&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msigor&layout=compact&hide_border=true&title_color=3899E8&text_color=DAE9F2&bg_color=0d1117" />
+    ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=msigor&show_icons=true&theme=dracula)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msigor&hide_progress=truecompact)](https://github.com/msigor/github-readme-stats)
 </div>
